@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-width: 450px;
+    max-width: 1080px;
+    margin: auto;
+    background-color: burlywood;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 15px;
+}
+
+div#msg {
+    background-color: white;
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.555);
+    margin: auto;
+    margin-top: 25px;
+    padding-top: 15px;
+}
+
+#botao {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 100px;
+}
+
+#msg p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#resultado  {
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 20px;
+    font-size: 20px;
+}
